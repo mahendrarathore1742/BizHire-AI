@@ -1,0 +1,31 @@
+TechStack,Links
+"Python, Django, Flask",https://portfolio.example.com/user1
+"JavaScript, React, Node.js",https://portfolio.example.com/user2
+"React, Redux, Next.js",https://portfolio.example.com/user3
+"Node.js, Express, MongoDB",https://portfolio.example.com/user4
+"Django, PostgreSQL, Celery",https://portfolio.example.com/user5
+"Flask, SQLAlchemy, Docker",https://portfolio.example.com/user6
+"Ruby on Rails, Redis, Sidekiq",https://portfolio.example.com/user7
+"Java, Spring Boot, Hibernate",https://portfolio.example.com/user8
+"Spring Boot, Kafka, Kubernetes",https://portfolio.example.com/user9
+"Kotlin, Android, Jetpack Compose",https://portfolio.example.com/user10
+"Swift, iOS, SwiftUI",https://portfolio.example.com/user11
+"Go, Gin, gRPC",https://portfolio.example.com/user12
+"C#, .NET Core, Blazor",https://portfolio.example.com/user13
+"ASP.NET, Entity Framework, Azure",https://portfolio.example.com/user14
+"Vue.js, Nuxt.js, Pinia",https://portfolio.example.com/user15
+"Angular, RxJS, NgRx",https://portfolio.example.com/user16
+"TypeScript, NestJS, Prisma",https://portfolio.example.com/user17
+"PHP, Laravel, MySQL",https://portfolio.example.com/user18
+"Laravel, Livewire, Tailwind CSS",https://portfolio.example.com/user19
+"GraphQL, Apollo, Hasura",https://portfolio.example.com/user20
+"MongoDB, Express, React, Node.js",https://portfolio.example.com/user21
+"PostgreSQL, TypeORM, GraphQL",https://portfolio.example.com/user22
+"MySQL, Sequelize, Express",https://portfolio.example.com/user23
+"Firebase, Firestore, Cloud Functions",https://portfolio.example.com/user24
+"Docker, Kubernetes, Helm",https://portfolio.example.com/user25
+"Kubernetes, Istio, Prometheus",https://portfolio.example.com/user26
+"TensorFlow, Keras, OpenCV",https://portfolio.example.com/user27
+"PyTorch, Transformers, Hugging Face",https://portfolio.example.com/user28
+"Hugging Face, FAISS, LangChain",https://portfolio.example.com/user29
+"FAISS, ChromaDB, Vector Search",https://portfolio.example.com/user30
